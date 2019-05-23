@@ -40,7 +40,7 @@ class App extends Component {
     const {items} = this.state;
     return (
       <div>
-        <h1 className="text-center">Cuaca</h1>
+        <h1 className="text-center">Prakiraan Cuaca Yogyakarta</h1>
         <table className="table table table-dark">
           <thead>
             <tr>
